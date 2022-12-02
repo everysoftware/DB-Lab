@@ -1,7 +1,0 @@
-C:/Variants/var1.pdf
-C:/Variants/var2.pdf
-C:/Variants/var3.pdf
-C:/Variants/var4.pdf
-C:/Variants/var5.pdf
-C:/Variants/var6.pdf
-C:/Variants/var7.pdf
